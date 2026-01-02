@@ -15,7 +15,7 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 
 ## Results
 
-Below are links to interactive versions of the visualizations for each round of prediction. My plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions to gauge their accuracy overtime. As my stash of visualizations and metrics grows this section may evolve.
+Below are links to interactive versions of the visualizations for each round of prediction. My plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions to gauge their accuracy over time. As my stash of visualizations and metrics grows this section may evolve.
 
 *just a test*
 [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/brighton_snowpack_interactive)
