@@ -28,4 +28,4 @@ These charts have five main components.
 4. The past 20 seasons of historical data (thin solid lines of various colors)
 5. A secondary chart that quantifies residuals
 
-*just a test* [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/brighton_snowpack_interactive)
+[Last observed date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20251222_Brighton_Main.html)
