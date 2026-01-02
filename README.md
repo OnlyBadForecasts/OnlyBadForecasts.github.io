@@ -20,10 +20,10 @@ Below are links to interactive versions of the visualizations for each round of 
 
 These charts have five main components. 
 
-1. 2025-2026 observed SWE at Brighton
-2. Median simulated SWE (dashed purple).
+1. 2025-2026 observed SWE at Brighton (solid blue)
+2. Median simulated SWE (dashed purple)
 3. 10th to 90th percentiles of Simulated trajectories (teal band)
-4. The past 20 seasons of historical data (solid lines of various colors)
+4. The past 20 seasons of historical data (thin solid lines of various colors)
 5. A secondary chart that quantifies residuals
 
 *just a test* [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/brighton_snowpack_interactive)
