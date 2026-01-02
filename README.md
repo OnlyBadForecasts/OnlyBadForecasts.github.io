@@ -19,4 +19,4 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 
 Below are links to interactive versions of the visualizations for each round of prediction. My plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions to gauge their accuracy over time. As my stash of visualizations and metrics grows this section may evolve. The charts are titled using the last day of observed data, so a prediction that starts on 2025-12-23 will be titled "Last Observed Date: 2025-12-22".
 
-*just a test*[Last observed date: 2025-12-22](https://onlybadforecasts.github.io/brighton_snowpack_interactive)
+*just a test* [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/brighton_snowpack_interactive)
