@@ -16,13 +16,15 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 
 ## Results
 
-Below are links to interactive versions of the visualizations for each round of prediction. Moving forward from the new year, my plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions and key metrics to gauge their accuracy over time. As my stash of visualizations and metrics grows this section may evolve. The charts that will make up the meat and potatoes of this section are titled using the last day of observed data e.g. a prediction that starts on 2025-12-23 will be titled "Last Observed Date: 2025-12-22".
+Below are links to interactive versions of the visualizations for each round of prediction. Moving forward from the new year, my plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions and key metrics to gauge their accuracy over time. As my stash of visualizations and metrics grows this section may evolve. 
+
+The charts that will make up the meat and potatoes of this section are titled here using the last day of observed data e.g. a prediction that starts on 2025-12-23 will be titled "Last Observed Date: 2025-12-22".
 
 These charts have five main components. 
 
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
-3. 10th to 90th percentiles of Simulated trajectories (teal band)
+3. 10th to 90th percentiles for simulated trajectories (teal band)
 4. The past 20 seasons of historical data (thin solid lines of various colors)
 5. A secondary chart that quantifies residuals
 
