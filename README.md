@@ -1,4 +1,4 @@
-# Welcome to OnlyBadForecasts.
+# Welcome to OnlyBadForecasts
 ## Introduction
 
 I love time-series forecasting, to me it is the holy grail of machine learning.
