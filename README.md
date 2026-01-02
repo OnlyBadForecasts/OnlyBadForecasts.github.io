@@ -3,7 +3,7 @@
 
 I love time-series forecasting, to me it is the holy grail of machine learning.
 
-My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional forecasting methodology. My target is the measured using SWE (snow water equivalent) as my target and 
+My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional, if naive, forecasting methodology. My target is the measured using SWE (snow water equivalent) as my target and 
 
 I have chosen to go with SWE as the target for two main reasons. 1. Snow has varying densities and 10" of snow could contain differing amounts of water, think cascade concrete vs. chunder vs. blower pow. 2. SWE is the measure available from reputable sources.
 
@@ -12,7 +12,7 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 [Brighton's data can be found here](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html)
 
 ## Methodology
-*Coming soon...*
+*Coming soon, I need to document my code...*
 
 ## Results
 
