@@ -15,10 +15,7 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 
 ## Results
 
-Below are links to 
+Below are links to interactive versions of the visualizations for each round of prediction. My plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions to gauge their accuracy overtime. As my stash of visualizations and metrics grows this section may evolve.
 
-
-<a href="https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_(novel)">a novel</a>
-
-
-[a novel](https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_%28novel%29)
+*just a test*
+[Last observed date: 2025-12-22](https://onlybadforecasts.github.io/brighton_snowpack_interactive)
