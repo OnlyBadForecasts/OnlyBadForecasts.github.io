@@ -30,11 +30,11 @@ Currently, the main chart has five main components.
 
 ### Median Prediction, Prediction 10th-90th Percentiles, Past 20 Seasons, and Residuals
 
-2. [Last observed date: 2025-12-31](https://onlybadforecasts.github.io/assets/html/20251231_Brighton_Main.html)
+[Last observed date: 2025-12-31](https://onlybadforecasts.github.io/assets/html/20251231_Brighton_Main.html)
 
 ![2025 12 31 predictions](/assets/20251231_Brighton_Img.png "2025-12-31")
 
-1. [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20251222_Brighton_Main.html)
+[Last observed date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20251222_Brighton_Main.html)
 
 ![2025 12 22 predictions](/assets/20251222_Brighton_Img.png "2025-12-22")
 
