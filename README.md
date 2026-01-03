@@ -28,7 +28,7 @@ Currently, the main chart has five main components.
 4. The past 20 seasons of historical data (thin solid lines of various colors)
 5. A secondary chart that quantifies residuals
 
-### Median Prediction, 10th-90th Percentiles, Past 20 Seasons, and Residuals
+### Median Prediction, Prediction 10th-90th Percentiles, Past 20 Seasons, and Residuals
 
 2. [Last observed date: 2025-12-31](https://onlybadforecasts.github.io/assets/html/20251231_Brighton_Main.html)
 
