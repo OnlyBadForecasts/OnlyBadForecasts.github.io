@@ -1,15 +1,11 @@
 # OnlyBadForecasts
 ## Introduction
 
-I love time-series forecasting. To me it is the holy grail of machine learning.
+I love time-series forecasting. To me it is the holy grail of machine learning. But, I pretty much suck at it.
 
-My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional, if naive, methodology. My target is a SWE (snow water equivalent) curve for the entire remainder of the season.
+My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah. Currently, the project is limited to forecasting measurements of [SWE (snow water equivalent)](https://en.wikipedia.org/?title=Snow_water_equivalent&redirect=no) for Brighton, but I do want to eventually expand the scope. All of my raw data is being sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
 
-I chose to go with SWE as the target for two main reasons. 1. Snow has varying densities and 10" of snow could contain differing amounts of water, and as such depth really isn't a great measure of precipitation as layers build up: think cascade concrete vs. blower pow. 2. SWE is the measure available from reputable sources.
 
-On the point of sources, all of my raw data is being sourced from the USDA's Natural Resources Conservation Service. I am starting the project with a single site, Brighton, but as I build out the project and sink more hours into it I want to expand to other sites. 
-
-[Brighton's data can be found here](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html)
 
 ## Methodology
 *Coming soon-ish...*
