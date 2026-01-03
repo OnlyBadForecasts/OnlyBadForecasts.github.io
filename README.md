@@ -3,31 +3,30 @@
 
 I love time-series forecasting. To me it is the holy grail of machine learning.
 
-My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional, if naive, methodology. My target is SWE (snow water equivalent) for the entire season.
+My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional, if naive, methodology. My target is an SWE (snow water equivalent) curve for the entire remainder of the season.
 
-I have chosen to go with SWE as the target for two main reasons. 1. Snow has varying densities and 10" of snow could contain differing amounts of water, and as such depth really isn't a great measure of precipitation: think cascade concrete vs. chunder vs. blower pow. 2. SWE is the measure available from reputable sources.
+I chose to go with SWE as the target for two main reasons. 1. Snow has varying densities and 10" of snow could contain differing amounts of water, and as such depth really isn't a great measure of precipitation as layers build up: think cascade concrete vs. blower pow. 2. SWE is the measure available from reputable sources.
 
 On the point of sources, all of my raw data is being sourced from the USDA's Natural Resources Conservation Service. I am starting the project with a single site, Brighton, but as I build out the project and sink more hours into it I want to expand to other sites. 
 
 [Brighton's data can be found here](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html)
 
 ## Methodology
-*Coming soon, I need to document my code and clean it up...*
+*Coming soon-ish...*
 
 ## Results
 
-Below are links to interactive versions of the visualizations for each round of prediction. Moving forward from the new year, my plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions and key metrics to gauge their accuracy over time. As my stash of visualizations and metrics grows this section may evolve. 
+Below are links to interactive versions of the visualizations for each round of prediction. Moving forward from the new year (2026), my plan is to update predictions on a weekly cycle. I will save out past predictions and key metrics to gauge their relative accuracy over time. As my stash of visualizations and metrics grows this section may evolve. 
 
-The charts that will make up the meat and potatoes of this section are titled here using the last day of observed data e.g. a prediction that starts on 2025-12-23 will be titled "Last Observed Date: 2025-12-22". 
+The charts that will make up the meat and potatoes of this section are titled using the last day of observed data e.g. a prediction run that starts with 2025-12-23 as the first predicted date will be titled "Last Observed Date: 2025-12-22".
 
-Currently, the main charts have five main components.
+Currently, the main chart has five main components.
 
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
 3. 10th to 90th percentiles for simulated trajectories (teal band)
 4. The past 20 seasons of historical data (thin solid lines of various colors)
 5. A secondary chart that quantifies residuals
-
 
 ### Median Prediction, 10th-90th Percentiles, Past 20 Seasons, and Residuals
 
