@@ -3,10 +3,9 @@
 
 I love time-series forecasting. To me it is the holy grail of machine learning. But, I pretty much suck at it.
 
-My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah. Currently, the project is limited to forecasting measurements of [SWE (snow water equivalent)](https://en.wikipedia.org/?title=Snow_water_equivalent&redirect=no) for Brighton, but I do want to eventually expand the scope. All of my raw data is being sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
+My current after-hours project on this topic is an attempt at a long term forecast of snowpack in Utah. Currently, the project is limited to forecasting measurements of [SWE (snow water equivalent)](https://en.wikipedia.org/?title=Snow_water_equivalent&redirect=no) at Brighton, but I do want to eventually expand the scope. All of my raw data is being sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
 
-I am not making a poltical statment. I am building forecasts. I just want them to be accurate.
-
+I am not making a poltical statement. I am building forecasts. I just want them to be accurate.
 
 ## Methodology
 *Coming soon-ish...*
