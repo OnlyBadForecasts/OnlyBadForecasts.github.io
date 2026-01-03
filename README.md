@@ -5,6 +5,7 @@ I love time-series forecasting. To me it is the holy grail of machine learning. 
 
 My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah. Currently, the project is limited to forecasting measurements of [SWE (snow water equivalent)](https://en.wikipedia.org/?title=Snow_water_equivalent&redirect=no) for Brighton, but I do want to eventually expand the scope. All of my raw data is being sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
 
+I am not making a poltical statment. I am building forecasts. I just want them to be accurate.
 
 
 ## Methodology
@@ -32,7 +33,7 @@ Currently, the main chart has five main components.
 
 ![2025 12 31 predictions](/assets/20251231_Brighton_Img.png "2025-12-31")
 
-I downloaded this data on the first of year, but I cut off the data used in inference at the 31st. That way I would have at least a single day for evaluation. Adding these nine days into the inference window seems to have dramatically shrank the distance between the 10th and 90th percentiles of my predictions: especially at dates farther into the future. Also, the median prediction appears to have been pulled down, and at points the median prediction now falls below historic levels. As of the time of writing (2026-01-02), most resorts in the Wasatch Front had received new snow (woo!). I am excited to see how this new snow changes predictions, but importantly affects the accuracy of this and the first run.  
+I downloaded this data on the first of year, but I cut off the data used in inference at the 31st. That way I would have at least a single day for evaluation. Adding these nine days into the inference window seems to have dramatically shrank the distance between the 10th and 90th percentiles of my predictions. Especially at dates deeper in the future where it looks like higher predictions were tamed and the 10th percentile stays stable between this . Also, the median prediction appears to have been pulled down, and at points the median prediction now falls below historic levels. As of the time of writing (2026-01-02), most resorts in the Wasatch Front had received new snow (woo!). I am excited to see how this new snow changes predictions, but importantly affects the accuracy of this and the first run.  
 
 ---
 
