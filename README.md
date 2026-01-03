@@ -12,7 +12,7 @@ This is an attempt at a long term forecast of snowpack in Utah. Currently, the p
 
 Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle. I will save out past predictions and key metrics to gauge their relative accuracy over time.
 
-Current
+***Current metrics***
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
 3. 10th to 90th percentiles for simulated trajectories (teal band)
@@ -27,7 +27,6 @@ Current
 
 ![2025 12 31 predictions](/assets/20251231_Brighton_Img.png "2025-12-31")
 
-I downloaded this data on the first of year, but I cut off the data used in inference at Dec. 31st. That way I would have at least a single day for evaluation. Adding these nine days into the first inference window had a more dramatic effect than I expected. Most resorts in the Front received new snow (woo!). I am excited to see how this changes predictions and affects the accuracy of both runs further out in the season.  
 
 ---
 
