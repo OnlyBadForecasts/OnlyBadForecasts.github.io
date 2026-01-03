@@ -45,4 +45,8 @@ I downloaded this data on the first of year, but I cut off the data used in infe
 
 I feel there are few extra points worth noting. 
 
-I don't have the time or energy to make every title, annotation, or line weight fit perfectly on every device. If the chart feels a bit cluttered and you are on desktop, then I suggest try scaling your browser's zoom down a little bit. If you are on mobile, good luck. I will try to improve the functionality/ease of use on this platform, but I make no promises as I am more focused on improving predictions. Lastly, please don't flame me for not implementing every suggestion every voice on the internet throws out. I read suggestions, but I also have only so much time and energy, and more importantly: I don't really care. 
+- I don't have the time or energy to make every title, annotation, or line weight fit perfectly on every device.
+    - If the chart feels a bit cluttered and you are on desktop, then I suggest try scaling your browser's zoom down a little bit.
+    - If you are on mobile, good luck.
+- Lastly, please don't flame me for not implementing every suggestion every voice on the internet throws out.
+    - I read suggestions, but I also have only so much time and energy, and more importantly: I don't really care. 
