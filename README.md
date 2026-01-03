@@ -36,11 +36,6 @@ Currently, the main charts have five main components.
 [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20251222_Brighton_Main.html)
 
 
-
-
-### Median Prediction, 10th-90th Percentiles, All Simulated Forecasts
-[Last observed date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20251222_Brighton_Main.html)
-
 #### Caveats
 
 I feel there are few extra points worth noting. I don't have the time or energy to make every title, annotation, or line weight fit perfectly on every device. If the chart feels a bit cluttered, and you are on desktop, then I suggest try scaling your browser's zoom down a little bit. If you are on mobile, good luck. I will try to improve the functionality/ease of use on this platform, but I make no promises. Lastly, please don't flame me for not implementing every suggestion every voice on the internet suggests. I read suggestions, but I also have only so much time and energy, and more importantly I don't really care. 
