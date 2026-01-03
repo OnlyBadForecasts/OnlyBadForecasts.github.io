@@ -18,7 +18,7 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 
 Below are links to interactive versions of the visualizations for each round of prediction. Moving forward from the new year, my plan is to update predictions every 7 days on Sunday evenings, but I will save out past predictions and key metrics to gauge their accuracy over time. As my stash of visualizations and metrics grows this section may evolve. 
 
-The charts that will make up the meat and potatoes of this section are titled here using the last day of observed data e.g. a prediction that starts on 2025-12-23 will be titled "Last Observed Date: 2025-12-22". I feel there are few extra points worth noting. I don't have the time or energy to make every title, annotation, or line weight fit perfectly on every device. If the chart feels a bit cluttered, and you are on desktop, then I suggest try scaling your browser's zoom down a little bit. If you are on mobile, good luck. Please don't flame me for not implementing every suggestion every voice on the internet suggests. I read suggestions, but I also have only so much time and energy, and more importantly I don't really care. 
+The charts that will make up the meat and potatoes of this section are titled here using the last day of observed data e.g. a prediction that starts on 2025-12-23 will be titled "Last Observed Date: 2025-12-22". 
 
 Currently, the main charts have five main components.
 
@@ -31,3 +31,7 @@ Currently, the main charts have five main components.
 
 ### Median Prediction, 10th-90th Percentiles, Past 20 Seasons, and Residuals
 [Last observed date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20251222_Brighton_Main.html)
+
+#### Caveats
+
+I feel there are few extra points worth noting. I don't have the time or energy to make every title, annotation, or line weight fit perfectly on every device. If the chart feels a bit cluttered, and you are on desktop, then I suggest try scaling your browser's zoom down a little bit. If you are on mobile, good luck. Please don't flame me for not implementing every suggestion every voice on the internet suggests. I read suggestions, but I also have only so much time and energy, and more importantly I don't really care. 
