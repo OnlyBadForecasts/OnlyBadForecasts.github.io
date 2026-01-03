@@ -18,7 +18,7 @@ On the point of sources, all of my raw data is being sourced from the USDA's Nat
 
 Below are links to interactive versions of the visualizations for each round of prediction. Moving forward from the new year (2026), my plan is to update predictions on a weekly cycle. I will save out past predictions and key metrics to gauge their relative accuracy over time. As my stash of visualizations and metrics grows this section may evolve. 
 
-The charts that will make up the meat and potatoes of this section are titled using the last day of observed data e.g. a prediction run that starts with 2025-12-23 as the first predicted date will be titled "Last Observed Date: 2025-12-22".
+The charts that will make up the meat and potatoes of this section are organized using the last day of observed data e.g. a prediction run that starts with 2025-12-23 as the first predicted date will be listed as "Last Observed Date: 2025-12-22".
 
 Currently, the main chart has five main components.
 
