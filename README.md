@@ -3,7 +3,7 @@
 
 I love time-series forecasting. To me it is the holy grail of machine learning.
 
-My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional, if naive, methodology. My target is an SWE (snow water equivalent) curve for the entire remainder of the season.
+My current after-hours foray into this topic is an attempt at a long term forecast of snowpack in Utah using unconventional, if naive, methodology. My target is SWE (snow water equivalent) curve for the entire remainder of the season.
 
 I chose to go with SWE as the target for two main reasons. 1. Snow has varying densities and 10" of snow could contain differing amounts of water, and as such depth really isn't a great measure of precipitation as layers build up: think cascade concrete vs. blower pow. 2. SWE is the measure available from reputable sources.
 
