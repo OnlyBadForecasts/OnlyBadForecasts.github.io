@@ -16,8 +16,9 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
 3. 10th to 90th percentiles for simulated trajectories (teal band)
-4. The past 20 seasons of historical data (thin solid lines of various colors)
-5. A secondary chart that quantifies residuals
+4. 1991-2020 Historical Median (solid red)
+5. The past 20 seasons of historical data (thin solid lines of various colors)
+6. A secondary chart that quantifies residuals
 
 ### Median Prediction, Prediction 10th-90th Percentiles, Past 20 Seasons, and Residuals
 
