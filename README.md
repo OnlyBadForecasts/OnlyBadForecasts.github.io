@@ -1,7 +1,7 @@
 # OnlyBadForecasts
 ## Introduction
 
-I love time-series forecasting. To me it is the holy grail of machine learning. But, I pretty much suck at it.
+I love time-series forecasting. To me it is the holy grail of machine learning, but I pretty much suck at it.
 
 This is an attempt at a long term forecast of snowpack in Utah. Currently, the project is limited to forecasting [SWE (snow water equivalent)](https://en.wikipedia.org/wiki/Snow_science#Measurement) at Brighton. All of my raw data is sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
 
