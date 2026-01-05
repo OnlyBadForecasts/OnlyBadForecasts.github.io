@@ -10,7 +10,7 @@ This is an attempt at a long term forecast of snowpack in Utah. Currently, the p
 
 ## Results
 
-Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle. I will save out past predictions and key metrics to gauge their relative accuracy over time.
+Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle, but, if major storms occur, I may rerun predictions on an ad-hoc basis. I will save out past predictions and key metrics to gauge their relative accuracy over time.
 
 ***Current metrics***
 1. 2025-2026 observed SWE at Brighton (solid blue)
