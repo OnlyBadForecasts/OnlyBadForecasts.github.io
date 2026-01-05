@@ -20,7 +20,7 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 5. The past 20 seasons of historical data (thin solid lines of various colors)
 6. A secondary chart that quantifies residuals
 
-### Median Prediction, Prediction 10th-90th Percentiles, Past 20 Seasons, and Residuals
+### Median Prediction, Prediction 10th-90th Percentiles, Historical Median ('91-'20), Past 20 Seasons, and Residuals
 
 ---
 
