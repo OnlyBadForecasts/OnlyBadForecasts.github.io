@@ -8,6 +8,8 @@ This is an attempt at a long term forecast of snowpack in Utah. Currently, the p
 ## Methodology
 *Coming soon-ish...*
 
+In the meantime, my methodology is inspired by [this paper](https://proceedings.mlr.press/v48/gal16.pdf).
+
 ## Results
 
 Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle, but if major storms occur I may rerun predictions on an ad-hoc basis. I will save out past predictions and key metrics to gauge their relative accuracy over time.
