@@ -68,4 +68,4 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 ***LSTM Test (250 predictions)***
 [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260105_Brighton_Alt_LSTM_20251222.html)
 
-![2025 12 22 predictions](/assets/20260105_Brighton_Alt_LSTM_20251222_IMG.png "2025-12-2 LSTM Predictions")
+![2025 12 22 predictions](/assets/20250105_Brighton_Alt_LSTM_20251222_IMG.png "2025-12-2 LSTM Predictions")
