@@ -16,7 +16,7 @@ For both approaches I want to add in a new feature: day distance from expected p
 
 ## Results
 
-Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle, but if major storms occur I may rerun predictions on an ad-hoc basis. I will save out past predictions and key metrics to gauge their relative accuracy over time.
+Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle starting from 2026-01-04, but if major storms occur I may rerun predictions on an ad-hoc basis. I will save out past predictions and key metrics to gauge their relative accuracy over time.
 
 ***Current metrics***
 1. 2025-2026 observed SWE at Brighton (solid blue)
