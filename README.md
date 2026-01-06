@@ -19,7 +19,7 @@ As my first alternative/sensitivity analysis, I created a similar workflow using
 
 For both approaches, I want to add in a new feature: day distance (positive or negative) from the expected peak day. The raw data contains a marker showing that the median peak day across years is YYYY-04-10. I think the model would benefit from this as it would add in signal about where in the accumulation/peak/melt phase each observation is, and this might work in concert with the cyclical features to improve performance. I will work on this later, but it should be an easy add.
 
- Some of this scree may fit better in the results/conclusions section, but for the moment it all stays here.
+ Some of this scree may fit better in the results or conclusions sections, but for the moment it all stays here.
 
 ## Results
 
