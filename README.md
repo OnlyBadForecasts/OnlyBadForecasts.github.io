@@ -36,34 +36,28 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ---
 
-***Prediction 5:*** [Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260111.html)
+***Prediction 4:*** [Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260111.html)
 
 ![2026 01 11 predictions](/assets/20260112_Brighton_Main_20260111_IMG.png "2026-01-11")
 
 ---
 
-***Prediction 4:*** [Last Observed Date: 2026-01-05](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260105.html)
+***Prediction 3:*** [Last Observed Date: 2026-01-05](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260105.html)
 
 ![2026 01 05 predictions](/assets/20260105_Brighton_Main_20260105_IMG.png "2026-01-05")
 
 ---
 
-***Prediction 3:*** [Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260104.html)
+***Prediction 2:*** [Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260104.html)
 
 ![2026 01 04 predictions](/assets/20260105_Brighton_Main_20260104_IMG.png "2026-01-04")
-
----
-
-***Prediction 2:*** [Last Observed Date: 2025-12-31](https://onlybadforecasts.github.io/assets/html/20260105_Brighton_Main_20251231.html)
-
-![2025 12 31 predictions](/assets/20260105_Brighton_Main_20251231_IMG.png "2025-12-31")
-
 
 ---
 
 ***Prediction 1:*** [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20251222.html)
 
 ![2025 12 22 predictions](/assets/20260112_Brighton_Main_20251222_IMG.png "2025-12-22")
+
 
 ### Notes
 - On 2026/01/04 I realized I had not properly limited my training data to past seasons. The MLP was being trained on windows for the 2025-2026 season. This has been corrected, but the estimates from the first prediction round were noticeably affected. The old predictions can still be found in the repo, but will not be displayed here.
