@@ -63,7 +63,7 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ***Prediction 1:*** [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20251222.html)
 
-![2025 12 22 predictions](/assets/20260105_Brighton_Main_20251222_IMG.png "2025-12-22")
+![2025 12 22 predictions](/assets/20260112_Brighton_Main_20251222_IMG.png "2025-12-22")
 
 ### Notes
 - On 2026/01/04 I realized I had not properly limited my training data to past seasons. The MLP was being trained on windows for the 2025-2026 season. This has been corrected, but the estimates from the first prediction round were noticeably affected. The old predictions can still be found in the repo, but will not be displayed here.
