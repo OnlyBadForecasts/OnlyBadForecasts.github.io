@@ -42,7 +42,7 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ---
 
-***Prediction 3:*** [Last Observed Date: 2026-01-05](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260105.html)
+***(Post Storm Ad-hoc)Prediction 3:*** [Last Observed Date: 2026-01-05](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260105.html)
 
 ![2026 01 05 predictions](/assets/20260112_Brighton_Main_20260105_IMG.png "2026-01-05")
 
