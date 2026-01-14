@@ -44,13 +44,13 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ***Prediction 3:*** [Last Observed Date: 2026-01-05](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260105.html)
 
-![2026 01 05 predictions](/assets/20260105_Brighton_Main_20260105_IMG.png "2026-01-05")
+![2026 01 05 predictions](/assets/20260112_Brighton_Main_20260105_IMG.png "2026-01-05")
 
 ---
 
 ***Prediction 2:*** [Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260104.html)
 
-![2026 01 04 predictions](/assets/20260105_Brighton_Main_20260104_IMG.png "2026-01-04")
+![2026 01 04 predictions](/assets/20260112_Brighton_Main_20260104_IMG.png "2026-01-04")
 
 ---
 
