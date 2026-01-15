@@ -71,6 +71,6 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ***MLP with Lower Learning Rate Test:*** 
 
-![2025 12 22 predictions](/assets/20260112_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2025-12-22")
+![2025 12 22 predictions](/assets/20260114_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2025-12-22")
 
 [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20251222.html)
