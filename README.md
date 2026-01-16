@@ -29,7 +29,7 @@ Below are visualizations for each model. Starting from 2026-01-04 the main model
 5. The past 20 seasons of historical data (thin solid lines of various colors)
 
 #### Secondary Chart
-1. Current seasons observed data as a percent of the historical median (dotted blue)
+1. Current season observed data as a percent of the historical median (dotted blue)
 2. Forecast median as a percent of the historical median (dashed purple)
 
 #### Tertiary Chart
