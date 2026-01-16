@@ -12,11 +12,11 @@ The main model I am evaluating breaks historical data up into chunks of 60 day w
 
 Looking at the charts related to the original model, I am starting to worry about how similarly prediction curves match with the shape of the historical median. Even without being fed it explicitly, I am worried that the model essentially learned the easiest way to minimize loss was to predict near the median, and that no matter when in the season or at what value of SWE the prediction starts the model sort of "runs home to mama". With a storm on 2026/01/05-06, there is a very real possibility that true values will move above the historical median, and I am very interested to see if the model begins predicting down to the historical median even after observed values move above it.
 
-As my first alternative/sensitivity analysis, I created a similar workflow using LSTM layers (To reviewer #3: I am still avoiding auto-regressive options like ARIMA, SARIMA, or SARIMAX). On my machine, the MLP approach takes about 5 minutes to create all 300 paths, while the LSTM approach takes about 4.5+ hours to complete 300 paths. I have run a prediction using this set up for 250 paths on an early date (2025-12-22), but I will update this when I can.
+As my first alternative/sensitivity analysis, I created a similar workflow using LSTM layers (To reviewer #3: I am still avoiding auto-regressive options like ARIMA, SARIMA, or SARIMAX). On my machine, the MLP approach takes about 5 minutes to create all 300 paths, while the LSTM approach takes about 4.5+ hours to complete 300 paths. I have run a prediction using this set up for 250 paths on an early date (2025-12-22), and I will update this when I can find the time to run it over night. As per the comments of reviewer #3, my next attempt at an alternative will use autoregressive and GBM options. Specifically, I want to use SARIMAX, because it will allow for the inclusion of the cyclical features, and XGBOOST, because it's neat.
 
 ## Results
 
-Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle starting from 2026-01-04, but if major storms occur I may rerun predictions on an ad-hoc basis. I will save out past predictions and key metrics to gauge their relative accuracy over time.
+Below are visualizations for each model. Starting from 2026-01-04 the main models will be updated weekly as best as possible.
 
 ***Current metrics***
 #### Primary Chart
@@ -28,7 +28,7 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 #### Secondary Chart
 1. Current seasons observed data as a percent of the historical median (dotted blue)
-2. Forecast median as a percent of the the historical median (dashed purple)
+2. Forecast median as a percent of the historical median (dashed purple)
 
 #### Tertiary Chart
 1. Residuals (Forecast Median - Obsereved)
