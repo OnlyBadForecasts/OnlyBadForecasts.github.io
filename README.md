@@ -35,7 +35,7 @@
 
 [Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20260111.html)
 
-[Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20250104.html)
+[Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20260104.html)
 
 [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20251222.html)
 
