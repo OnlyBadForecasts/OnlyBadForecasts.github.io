@@ -1,12 +1,4 @@
-# OnlyBadForecasts
-## Introduction
 
-I love time-series forecasting. To me, it is the holy grail of machine learning, but I pretty much suck at it.
-
-This is an attempt at a long term forecast of snowpack in Utah. The project began with fore4cast for a single site, is limited to forecasting [SWE (snow water equivalent)](https://en.wikipedia.org/wiki/Snow_science#Measurement) at Brighton. All of my raw data is sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
-Below are visualizations for each model. Starting from 2026/01/04 the main models will be updated weekly as best as possible.
-
-***Current metrics***
 #### Primary Chart
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
@@ -55,7 +47,4 @@ Below are visualizations for each model. Starting from 2026/01/04 the main model
 ![2025 12 22 predictions](/assets/20250105_Brighton_Alt_LSTM_20251222_IMG.png "2025-12-2 LSTM Predictions")
 
 [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260106_Brighton_Alt_LSTM_250_20251222.html)
-
-### Notes
-- On 2026/01/04 I realized I had not properly limited my training data to past seasons. The MLP was being trained on windows for the 2025-2026 season. This has been corrected, but the estimates from the first prediction round were noticeably affected. The old predictions can still be found in the repo, but will not be displayed here.
 
