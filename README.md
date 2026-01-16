@@ -3,7 +3,7 @@
 
 I love time-series forecasting. To me, it is the holy grail of machine learning, but I pretty much suck at it.
 
-This is an attempt at a long term forecast of snowpack in Utah. Currently, the project is limited to forecasting [SWE (snow water equivalent)](https://en.wikipedia.org/wiki/Snow_science#Measurement) at Brighton. All of my raw data is sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
+This is an attempt at a long term forecast of snowpack in Utah. The project began with fore4cast for a single site, is limited to forecasting [SWE (snow water equivalent)](https://en.wikipedia.org/wiki/Snow_science#Measurement) at Brighton. All of my raw data is sourced from the [USDA's Natural Resources Conservation Service](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html).
 
 ## Methodology
 My methodology is inspired by [this paper](https://proceedings.mlr.press/v48/gal16.pdf).
