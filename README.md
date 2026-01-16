@@ -8,17 +8,17 @@ This is an attempt at a long term forecast of snowpack in Utah. Currently, the p
 ## Methodology
 My methodology is inspired by [this paper](https://proceedings.mlr.press/v48/gal16.pdf).
 
-The main model I am evaluating breaks historical data up into chunks of 60 day windows, with 2 cylical features, and a target. Examples were fed into a simple MLP with two dense layers, a single dropout layer that separates them, and a linear output layer. I then used feed forward prediction to create 300 futures paths. As per [Gal and Ghahramani](https://proceedings.mlr.press/v48/gal16.pdf), I kept dropout layers live to during inference. From these 300 trajectories I calculate a 10th and 90th percentile as well as a median: these figures essentially become my prediction.
+The main model I am evaluating breaks historical data up into 60 day windows with 2 cylical features and a target. Examples were fed into a simple MLP with two dense layers, a single dropout layer separates them, and a linear output layer ends the network. Then, feed forward prediction was used to create 300 possible future paths. As per [Gal and Ghahramani](https://proceedings.mlr.press/v48/gal16.pdf), I kept dropout layers live to during inference. From these trajectories I calculate a 10th percentile, 90th percentile, and median: these figures essentially become my prediction.
 
-Looking at the plots for the original model, I worry about how similarly prediction curves match with the shape of the historical median. Even without being fed it explicitly, did the model learned that the easiest way to minimize loss was to predict near the median? With the storm on 2026/01/05-06, there is a very real possibility that true values will move above the historical median. I am very interested to see if the model begins predicting down to the historical median even after observed values move above it.
+Looking at the plots for the original model, I worry about how similar prediction curves match with the shape of the historical median. Even without being fed it explicitly, did the model learn that the easiest way to minimize loss was to predict near the median? With the storm on 2026/01/05-06, there is a very real chance that observed values will move above the historical median. I am very interested to see if the model begins predicting down to the historical median even after observed values move above it.
 
-As my first alternative/sensitivity analysis, I created a similar workflow using LSTM layers. The differences in training time are trivial, but the MLP approach takes about 5 minutes to create all 300 paths, and the LSTM approach takes about 4.5+ hours to complete the same. I have run a prediction using this set up for 250 paths on an early date (2025-12-22), but I hate dedicating hours to updating it. I will update this when I can.
+As my first alternative/sensitivity analysis, I created a similar workflow using LSTM layers. The differences in training time are trivial, but the MLP approach takes about 5 minutes to create all 300 paths, and the LSTM approach takes about 4.5+ hours to complete the same. I have run a prediction using this set up for 250 paths on an early date (2025-12-22), but I hate dedicating hours to updating it. I will update this when I can. 
 
 In my next comparison, I want to use SARIMAX and XGBOOST. I do need to provide a comparison of accuracy, that pits my predictions against an established method. I know how to tune xgboost well, and the SARIMAX variation will allow me to include my cyclical variables
 
 ## Results
 
-Below are visualizations for each model. Starting from 2026-01-04 the main models will be updated weekly as best as possible.
+Below are visualizations for each model. Starting from 2026/01/04 the main models will be updated weekly as best as possible.
 
 ***Current metrics***
 #### Primary Chart
