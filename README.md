@@ -11,7 +11,7 @@
 2. Forecast median as a percent of the historical median (dashed purple)
 
 #### Tertiary Chart
-1. Residuals (Forecast Median - Obsereved)
+1. Residuals (Forecast Median - Observed)
 
 ### Median Prediction, Prediction 10th-90th Percentiles, Historical Median ('91-'20), Past 20 Seasons, and Residuals
 
