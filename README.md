@@ -19,12 +19,19 @@ As my first alternative/sensitivity analysis, I created a similar workflow using
 Below are visualizations for each round of prediction. Moving forward, my plan is to update predictions on a weekly cycle starting from 2026-01-04, but if major storms occur I may rerun predictions on an ad-hoc basis. I will save out past predictions and key metrics to gauge their relative accuracy over time.
 
 ***Current metrics***
+#### Primary Chart
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
 3. 10th to 90th percentiles for simulated trajectories (teal band)
 4. 1991-2020 historical median (solid red)
 5. The past 20 seasons of historical data (thin solid lines of various colors)
-6. A secondary chart that quantifies residuals
+
+#### Secondary Chart
+1. Current seasons observed data as a percent of the historical median (dotted blue)
+2. Forecast median as a percent of the the historical median (dashed purple)
+
+#### Tertiary Chart
+1. Residuals (Forecast Median - Obsereved)
 
 ### Median Prediction, Prediction 10th-90th Percentiles, Historical Median ('91-'20), Past 20 Seasons, and Residuals
 
@@ -46,7 +53,12 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ![2025 12 22 predictions](/assets/20260114_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2025-12-22")
 
-[Last Observed Date: 2026-01-05](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260105.html)
+[Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20260111.html)
+
+[Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20250104.html)
+
+[Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20251222.html)
+
 
 ---
 
