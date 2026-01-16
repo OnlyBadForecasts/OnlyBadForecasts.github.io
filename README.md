@@ -32,7 +32,7 @@ Below are visualizations for each round of prediction. Moving forward, my plan i
 
 ***MLP approach with a high learning rate (original)***
 
-![2026 01 11 predictions](/assets/20260112_Brighton_Main_20260111_IMG.png "2026-01-11")
+![2026 01 11 predictions](/assets/Brighton_Main_loop.gif "2026-01-11")
 
 [Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260111.html)
 
