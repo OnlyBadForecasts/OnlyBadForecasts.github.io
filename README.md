@@ -17,18 +17,6 @@
 
 ---
 
-***MLP approach with a high learning rate (original)***
-
-![2026 01 11 predictions](/assets/Brighton_Main_loop.gif "2026-01-11")
-
-[Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260111.html)
-
-[Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260104.html)
-
-[Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20251222.html)
-
----
-
 ***MLP approach with a low learning rate*** 
 
 ![2026 02 01 predictions](/assets/20260204_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2026-02-01")
@@ -39,6 +27,17 @@
 
 [Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20251222.html)
 
+---
+
+***MLP approach with a high learning rate (original)***
+
+![2026 01 11 predictions](/assets/Brighton_Main_loop.gif "2026-01-11")
+
+[Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260111.html)
+
+[Last Observed Date: 2026-01-04](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20260104.html)
+
+[Last Observed Date: 2025-12-22](https://onlybadforecasts.github.io/assets/html/20260112_Brighton_Main_20251222.html)
 
 ---
 
