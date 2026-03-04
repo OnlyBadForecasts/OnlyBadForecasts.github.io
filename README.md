@@ -1,4 +1,4 @@
-hart
+#### Primary Chart
 1. 2025-2026 observed SWE at Brighton (solid blue)
 2. Median simulated SWE (dashed purple)
 3. 10th to 90th percentiles for simulated trajectories (teal band)
