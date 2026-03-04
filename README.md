@@ -19,4 +19,4 @@
 
 ![2026 02 22 predictions](/assets/20260227_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2026-02-22")
 
-[Last Observed Date: 2026-02-22](https://onlybadforecasts.github.io/assets/html/20260226_Brighton_Main_lowLearnRate_(1e-4)_20260222.html)
+[Last Observed Date: 2026-02-22](https://onlybadforecasts.github.io/assets/20260226_Brighton_Main_lowLearnRate_(1e-4)_20260222.html)
