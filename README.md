@@ -21,8 +21,8 @@ hart
 [Last Observed Date: 2026-02-22](https://onlybadforecasts.github.io/assets/20260226_Brighton_Main_lowLearnRate_(1e-4)_20260222.html)
 
 
-Notes:
+NOTES:
 
-SOURCE: [National Water and Climate Center: SNOTEL SWE Plots: Site 366(Brighton, UT)](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html)
+Source: [National Water and Climate Center: SNOTEL SWE Plots: Site 366(Brighton, UT)](https://nwcc-apps.sc.egov.usda.gov/awdb/site-plots/POR/WTEQ/UT/Brighton.html)
 
-DATA DECLARATIONS: 2026 does not contain a leap day. In the source data there is a "break" in the data. This model destroys data for leap days, i.e. all years have a length of 365 days, and Feb. 28th always moves to Mar. 1st.
+Data Declarations: 2026 does not contain a leap day. In the source data there is a "break" in the data. This model destroys data for leap days, i.e. all years have a length of 365 days, and Feb. 28th always moves to Mar. 1st.
