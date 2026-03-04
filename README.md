@@ -17,8 +17,6 @@
 
 ---
 
-***MLP approach with a low learning rate*** 
-
 ![2026 02 01 predictions](/assets/20260227_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2026-02-01")
 
 [Last Observed Date: 2026-01-11](https://onlybadforecasts.github.io/assets/html/20260115_Brighton_Main_lowLearnRate_(1e-4)_20260111.html)
