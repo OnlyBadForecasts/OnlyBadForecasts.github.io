@@ -20,7 +20,7 @@
 
 [**→ Fullscreen GIF ←**](/assets/20260310_Brighton_Main_lowLearnRate_(1e-4)_loop.gif "2026-03-08")  
 
-[**→ Fullscreen Chart, Last Observed Date: 2026-03-08←**](https://onlybadforecasts.github.io/assets/20260310_Brighton_Main_lowLearnRate_(1e-4)_20260308.html)
+[**→ Fullscreen Chart, Last Observed Date: 2026-03-08 ←**](https://onlybadforecasts.github.io/assets/20260310_Brighton_Main_lowLearnRate_(1e-4)_20260308.html)
 
 
 NOTES:
